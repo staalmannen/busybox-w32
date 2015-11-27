@@ -1,0 +1,1 @@
+#define CONFIG_CROSS_COMPILER_PREFIX "i686-w64-mingw32-"
